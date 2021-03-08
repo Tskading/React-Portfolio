@@ -7,7 +7,7 @@ function Header({}) {
         <h1 className="display-4">Thomas Samuel Kading</h1>
 
         <hr className="my-4" />
-        <p>Nav-Links</p>
+        
         <a className="btn-lg linkBtn" href="/" role="button">
           About Me
         </a>
@@ -24,8 +24,7 @@ function Header({}) {
 
       <div className="hero">
         <p>
-          If you only focus on the fence, what lies beyond will always seem out
-          of focus.
+         Never do twice what you can automate once.
         </p>
       </div>
     </>

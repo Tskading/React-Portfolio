@@ -6,6 +6,8 @@ import Work from "./pages/Work";
 import ContactMe from "./pages/ContactMe";
 import Resume from "./pages/Resume";
 import Footer from "./components/Footer";
+import { Document } from 'react-pdf'
+
 function App() {
   const pathName = window.location.pathname;
 
@@ -29,6 +31,7 @@ function App() {
       {console.log(pathName)}
       <Header />
       {displayPage()}
+      <br></br>
       <Footer />
     </div>
   );

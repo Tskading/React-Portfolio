@@ -1,11 +1,15 @@
 import React from "react";
 
-function Resume () {
+function Resume (props) {
+
     return (
         <>
-            <h1>
-                Testing Resume
-            </h1>
+            <h1 >
+                TSK Resume 
+            </h1 >
+            <a className="resumeText" target="_blank" href="/assets/resume/TSKResume.pdf">Click here to grab a copy of my resume, thanks!</a>
+            <br></br>
+            <br></br>
         </>
     )
 }
