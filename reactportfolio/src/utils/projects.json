@@ -1,6 +1,38 @@
 [
     {
         "name": "SongBirdie",
-        "img": "/assets/img/SongBirdie.png"
+        "img": "/assets/img/SongBirdie.png",
+        "liveHref": "http://song-birdie.herokuapp.com/",
+        "hubHref": "https://github.com/Bryson-Palmer/song-bird"
+    },
+    {
+        "name": "Daily Planner",
+        "img": "/assets/img/dailyPlanner.png",
+        "liveHref": "https://tskading.github.io/Daily-Planner/",
+        "hubHref": "https://github.com/Tskading/Daily-Planner"
+    },
+    {
+        "name": "Game & GIF",
+        "img": "/assets/img/gameGIF.png",
+        "liveHref": "https://tskading.github.io/Game-Meme/",
+        "hubHref": "https://github.com/Tskading/Game-Meme"
+    },
+    {
+        "name": "Employee Directory",
+        "img": "/assets/img/EmployeeDirectory.png",
+        "liveHref": "https://employee-directory-tsk.herokuapp.com/",
+        "hubHref": "https://github.com/Tskading/Employee-Directory"
+    },
+    {
+        "name": "Budget Tracker",
+        "img": "/assets/img/BTscreenshot.png",
+        "liveHref": "https://fast-eyrie-35371.herokuapp.com/",
+        "hubHref": "https://github.com/Tskading/BudgetTracker"
+    },
+    {
+        "name": "Password Generator",
+        "img": "/assets/img/passwordGenerator.png",
+        "liveHref": "https://tskading.github.io/Password-Generator/",
+        "hubHref": "https://github.com/Tskading/Password-Generator"
     }
 ]
