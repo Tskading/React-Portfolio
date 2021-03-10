@@ -1,7 +1,7 @@
 .App {
   background-color: #0B0C10;
   color: #C5c6c7 ;
-
+  overflow: hidden;
 }
 
 .footer {
